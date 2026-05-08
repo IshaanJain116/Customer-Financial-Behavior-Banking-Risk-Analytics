@@ -186,16 +186,6 @@ Customer-Financial-Behavior-Banking-Risk-Analytics/
 
 This project demonstrates how banking data can be transformed into actionable business insights using data analytics tools. It highlights the importance of data-driven decision-making in understanding customer financial behavior, identifying banking risks, analyzing deposits and loans, and improving customer segmentation strategies.
 
----
-
-# 📂 Repository Structure
-
-├── Dataset/  
-├── Python_EDA/  
-├── SQL_Queries/  
-├── PowerBI_Dashboard/  
-├── Problem_Statement.md  
-└── README.md  
 
 ---
 
