@@ -194,5 +194,3 @@ This project demonstrates how banking data can be transformed into actionable bu
 **Ishaan Jain**  
 Data Analytics Enthusiast  
 
----
-⭐ If you found this project useful, feel free to explore and give feedback!
